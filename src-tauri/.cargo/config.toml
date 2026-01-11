@@ -1,0 +1,3 @@
+[env]
+# Helps rust-analyzer with Tauri macro resolution
+TAURI_ENV_PLATFORM = "windows"
