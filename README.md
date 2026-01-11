@@ -77,7 +77,7 @@ sudo pacman -S webkit2gtk-4.1 gtk3 libappindicator-gtk3
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/lite-browser.git
+git clone https://github.com/bittu-the-coder/lite-browser.git
 cd lite-browser
 
 # Install dependencies
